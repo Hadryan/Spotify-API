@@ -1,0 +1,92 @@
+track_id,artist,album,track,album_track_seq,track_release_date,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+28cnXtME493VX9NOw9cIUh,Johnny Cash,American IV: The Man Comes Around,Hurt,2,2002-01-01,0.534,0.392,9,-7.636,0,0.0267,0.649,0.000227,0.0948,0.163,90.379,216533,4
+77dcKrzRUI02XjHd2okARp,"Hank Williams, Jr.",The Pressure Is On,A Country Boy Can Survive,1,1981,0.688,0.459,7,-9.353,1,0.0365,0.144,0.0,0.0816,0.493,75.184,255000,4
+1A6P8IxzNyBRsQualaNXNY,Willie Nelson,Walking the Line,Pancho and Lefty,3,1976,0.665,0.37,2,-16.651,1,0.035,0.651,0.000315,0.073,0.519,122.997,286067,4
+3zpj9dvJABiyMrmLCPw6i8,Patsy Cline,Showcase,Crazy - Single Version,7,1961-11-27,0.471,0.021,10,-24.385,1,0.0366,0.931,1.19e-06,0.103,0.356,107.765,164573,3
+6GesMrumuizpmDhCQcglbI,Jimmie Rodgers,Essential Jimmie Rodgers,In the Jailhouse Now,5,1997-04-01,0.76,0.264,0,-11.503,1,0.0334,0.991,1.11e-06,0.159,0.688,81.934,198693,4
+44X3wBWJkqZucNHbYU6Wk9,Bill Monroe,Columbia Historic Edition,Kentucky Waltz,1,1946,0.568,0.196,2,-13.042,1,0.0325,0.866,0.129,0.229,0.565,123.302,166160,3
+07IuSThN6YHAAollCnu1Ln,The Carter Family,Can The Circle Be Unbroken: Country Music's First Family,Can the Circle Be Unbroken,1,1935,0.557,0.32,8,-8.874,1,0.0372,0.975,0.0,0.11,0.648,98.959,187000,4
+7jWbXvrgdbkajU8L28ahn5,The Highwaymen,Highwayman,Highwayman,1,1985-05-01,0.67,0.351,2,-16.842,1,0.0463,0.48,0.0176,0.115,0.45,101.384,182653,4
+3nKLfeoq3YedJIZqvRW3Qz,Mark Chesnutt,The George Jones Collection,I Don't Need Your Rockin' Chair - Version w/special guests,2,1999-01-01,0.68,0.589,0,-10.01,1,0.0247,0.152,0.0,0.378,0.696,93.865,168640,4
+6vmAgl2y9MpoZKrVUXrPe5,Conway Twitty,Hello Darlin',Hello Darlin',11,1970-03-23,0.276,0.235,0,-14.352,1,0.0315,0.94,1.01e-05,0.132,0.472,170.55,149133,3
+1eqfEgDjxtCu8RBnEdg3bT,Bob Wills & His Texas Playboys,Classic Western Swing,Roly-Poly,4,1994-05-13,0.755,0.523,7,-12.045,1,0.165,0.773,0.00113,0.191,0.883,126.734,148733,4
+6xatfNMI8NkY5XxRHAeiS4,Tammy Wynette,Tears Of Fire: The 25th Anniversary Collection,Stand By Your Man,14,1964,0.517,0.246,9,-11.992,1,0.0308,0.788,0.00105,0.133,0.525,105.24,159760,4
+02sENi9ULQ36x9mKo5B7XW,Conway Twitty,"Louisiana Woman, Mississippi Man","Louisiana Woman, Mississippi Man",1,1973-01-01,0.62,0.711,1,-6.943,1,0.035,0.477,0.000168,0.0812,0.96,98.263,151731,4
+3JWEMzwpcWCvu4Qw1BIbYi,Buck Owens,All-Time Greatest Hits,Act Naturally,1,2010-08-31,0.552,0.474,7,-6.847,1,0.0275,0.336,0.0,0.173,0.7,92.156,143693,4
+1zJRHhb8yN2LyVfNhmlhH0,Kitty Wells,Country Music Hall Of Fame Series: Kitty Wells,It Wasn't God Who Made Honky Tonk Angels,1,1991-02-05,0.624,0.191,9,-11.072,1,0.0301,0.719,0.0,0.358,0.726,137.276,153867,4
+6o6STE55cbhH4BuM2EJRL9,Galantis,Church,Faith (with Dolly Parton) [feat. Mr. Probz],2,2020-02-07,0.547,0.795,8,-3.721,1,0.0489,0.145,0.0,0.11,0.723,118.118,186805,4
+6W7JvNYum6o2NxIIP5rZ2s,Lefty Frizzell,American Originals,Long Black Veil,3,1980,0.558,0.16,4,-17.501,1,0.0384,0.826,2.3e-05,0.131,0.401,63.055,182360,4
+49QSzXWczzTSZIbbjFce3h,Ray Price,The Essential Ray Price 1951-1962,Heartaches By the Number,16,1991-10-29,0.512,0.533,10,-7.898,1,0.0348,0.779,4.15e-06,0.0825,0.846,127.216,177240,4
+1wK9cRMY8HBmRLiNm72MBG,Eddy Arnold,The Essential Eddy Arnold,It's a Sin,1,1996-06-18,0.692,0.373,10,-12.201,1,0.027,0.909,4.35e-06,0.116,0.782,144.591,146080,4
+70uBQNPGrjgfvwYhkWZksR,Ernest Tubb,The Definitive Collection,"Goodnight, Irene",17,2006-06-06,0.671,0.178,4,-12.528,1,0.0482,0.847,0.0,0.261,0.589,128.919,181653,3
+0VxX3RBKO46Ky6XgvN0bME,Webb Pierce,20th Century Masters: The Millennium Collection: Best Of Webb Pierce,There Stands The Glass,4,2001-01-01,0.522,0.256,3,-7.39,1,0.0309,0.923,0.0,0.359,0.64,114.96,146667,4
+7CX9JYwpiObnYl2NzFqj4c,Ronnie Milsap,The Best Of Ronnie Milsap,Smoky Mountain Rain,1,2019-06-28,0.554,0.577,7,-8.62,1,0.0282,0.0165,2.91e-05,0.0719,0.479,140.277,223293,4
+7LKr5nHKs6ivxU35ds3AjO,Jim Reeves,The Best Of,He'll Have to Go,1,1992-02-25,0.512,0.301,1,-11.755,1,0.035,0.822,0.0237,0.107,0.181,80.955,139667,3
+37GWhu8R61gTStMvVQfDuE,Charley Pride,Sings Heart Songs,Kiss an Angel Good Mornin',4,1971-11-01,0.665,0.512,4,-10.704,1,0.03,0.581,0.0,0.371,0.87,130.578,123467,4
+7HZYzh7kR2FLM7MLOzNW0J,The Stanley Brothers,16 Greatest Hits,Mountain Dew,5,2005,0.546,0.509,3,-13.954,1,0.0377,0.179,0.000344,0.118,0.698,146.733,163613,4
+6iy4PoAuZBMvtrlDX4VxC7,George Strait,Strait Out Of The Box,Check Yes Or No,17,1995-01-01,0.708,0.524,5,-12.644,1,0.0352,0.0551,3.21e-06,0.0371,0.69,111.482,200667,4
+29qFlNOssruDfoEN8vN2Uu,Flatt & Scruggs,Town and Country,Foggy Mountain Breakdown,1,1965-09-12,0.407,0.479,2,-14.781,1,0.0329,0.191,0.901,0.352,0.919,155.252,140413,4
+0AQquaENerGps8BQmbPw14,Marty Robbins,Gunfighter Ballads And Trail Songs,Big Iron,1,1959,0.726,0.474,1,-7.834,0,0.0491,0.803,0.0,0.258,0.57,116.027,235733,4
+44AyOl4qVkzS48vBsbNXaC,Elvis Presley,Blue Hawaii,Can't Help Falling in Love,5,1961-10-20,0.396,0.293,2,-14.062,1,0.0275,0.941,0.000196,0.105,0.343,100.307,182360,3
+5fle0b4Py30UeusQUzyxbG,Hank Snow,I've Been Everywhere,I've Been Everywhere,1,1963-12-10,0.465,0.528,1,-14.134,1,0.0453,0.721,0.0,0.408,0.948,119.706,166333,4
+0xERMvJD8djz1ZBjPSRLvM,Don Gibson,RCA Country Legends: Don Gibson,Sea of Heartbreak,3,2001-05-15,0.59,0.586,7,-9.158,1,0.0344,0.422,4.46e-05,0.337,0.729,91.17,155040,4
+36Ew5C2l5r1GAZifRhp4YG,Roger Miller,Best Of Roger Miller,King Of The Road - Re-Recorded In Stereo,1,1991-09-03,0.731,0.204,11,-18.934,1,0.0727,0.51,2.02e-05,0.0894,0.699,121.817,143373,4
+0dwpdcQkeZqpuoAPYD49N3,Johnny Horton,Johnny Horton'S Greatest Hits,The Battle Of New Orleans,8,1961,0.703,0.776,9,-10.983,1,0.139,0.764,0.0,0.0988,0.921,177.283,151627,4
+542C7PqR1oEfl63hlhQO4V,Charlie Rich,Behind Closed Doors,The Most Beautiful Girl,6,1972,0.576,0.318,7,-14.366,1,0.0286,0.661,7.47e-06,0.167,0.41,103.493,161907,4
+7Jf323ttHKUnPylFWiaGl3,Red Foley,Country Music Hall Of Fame: Red Foley,Chattanoogie Shoe Shine Boy - 1949 Single Version,7,1991-01-01,0.725,0.373,10,-15.925,1,0.0494,0.613,0.0202,0.118,0.846,148.367,169000,4
+7oXP56aUNn7ofMyLhvPhEK,The Louvin Brothers,Satan Is Real,Satan Is Real,1,1960,0.603,0.194,9,-14.069,1,0.0577,0.71,0.0,0.0921,0.389,124.254,181733,4
+3uG4ygD1bIP3YspJm9N4KO,The Statler Brothers,Flowers on the Wall,Flowers on the Wall,1,1966,0.53,0.51,8,-11.053,0,0.187,0.596,0.0,0.0712,0.808,201.594,139813,4
+5RKPe1oN9lGayUCKn00fYi,Roy Acuff,The Essential Roy Acuff,Wabash Cannonball,9,1938,0.717,0.37,9,-10.119,1,0.0365,0.763,0.0,0.424,0.881,99.425,155388,4
+25leEEaz1gIpp7o21Fqyjo,Gene Autry,Rudolph The Red Nosed Reindeer And Other Christmas Classics,Here Comes Santa Claus (Right Down Santa Claus Lane),1,1947,0.834,0.372,1,-11.99,1,0.0358,0.799,0.0,0.275,0.976,96.628,150267,4
+39AxeDwNIyjPKgI7g9H2Jg,Hank Thompson,Songs Of The Brazos Valley,The Wild Side Of Life,1,1956-01-01,0.596,0.144,2,-10.307,1,0.0298,0.924,0.0,0.219,0.451,115.681,164520,4
+6yFIzIxyTVRfVeSTTvtEBt,Bobby Bare,"Bobby Bare Sings Lullabys, Legends And Lies (And More)",Marie Laveau,3,1973-11-01,0.593,0.521,9,-10.326,1,0.0358,0.872,0.0,0.714,0.855,117.805,189027,4
+0NzSlcBUNgYkhbaL20cljR,Chet Atkins,The Essential Chet Atkins,Mister Sandman,1,1996-06-18,0.646,0.368,2,-12.803,1,0.0497,0.931,0.629,0.0943,0.468,111.719,137000,4
+2cBvzEpULwlad4RaXbcIiw,George Morgan,The Late Great - 14 Greatest Hits,Room Full of Roses,8,2005,0.556,0.243,10,-15.507,1,0.0312,0.837,0.000122,0.0795,0.439,89.933,153373,4
+0sJchoPZwC2MV8WzZRoZUk,Porter Wagoner,The Essential Porter Wagoner & Dolly Parton,The Last Thing On My Mind,3,2015-10-02,0.611,0.412,11,-12.513,1,0.0282,0.563,0.0,0.24,0.713,105.811,156160,4
+4KM77RUl2IKdXGhtOBbKIS,Tennessee Ernie Ford,Sixteen Tons,Sixteen Tons,1,1955-04-10,0.667,0.25,11,-18.533,1,0.217,0.757,0.0,0.25,0.412,144.145,155902,4
+3NK1S43wIXbYhWHCjQOrnM,Vern Gosdin,Chiseled In Stone,Set 'Em Up Joe,4,1988,0.853,0.401,2,-12.526,1,0.0325,0.418,0.000269,0.222,0.663,120.049,145200,4
+5wkkCtYEcgrXoDagTEHSIj,Sonny James,The Sonny Side,Young Love,6,1959-01-01,0.443,0.35,2,-9.996,1,0.0401,0.785,0.0006,0.15,0.339,150.027,150253,3
+2MiXC2LfpsoeUP5RvMGEQ3,Reba McEntire,For My Broken Heart,The Night The Lights Went Out In Georgia,6,1991-01-01,0.428,0.51,7,-11.695,0,0.103,0.52,8.32e-06,0.105,0.393,169.967,257267,4
+5NmBhMK9Pfu1XNAyzmxIro,Tom T. Hall,"Tom T. Hall - Storyteller, Poet, Philosopher",That's How I Got To Memphis,11,1995-11-14,0.707,0.432,4,-13.432,1,0.0368,0.168,0.000156,0.207,0.761,109.964,182467,4
+3FUL2VqnKPvpuRLvUQozn1,Roy Rogers,An Old Cowhand,Don't Fence Me In,19,2000-01-01,0.65,0.202,4,-12.128,1,0.0452,0.979,0.000858,0.0713,0.844,138.223,172013,4
+7GH8qNOm2gEKryVUyVzkmt,Tanya Tucker,Tanya Tucker / Super Hits,Delta Dawn,1,1972,0.619,0.507,5,-7.677,1,0.0335,0.71,0.0,0.258,0.694,77.995,175200,4
+0Q7eey8NSPQEQ3ol75UAAx,Bill Anderson,The Definitive Collection,Still - Single Version,5,2006-01-01,0.561,0.142,8,-18.972,1,0.0433,0.678,0.00631,0.226,0.293,94.454,166973,4
+0mG66FLhO0iZ6XCAGdjpax,The Oak Ridge Boys,Fancy Free,Elvira,1,1981-01-01,0.825,0.285,8,-17.491,1,0.0326,0.188,0.00131,0.0539,0.86,126.946,225627,4
+4dim8F8t01qimHOmr6S3Gd,Faron Young,The Complete Capitol Hits Of Faron Young,Hello Walls,15,2000-01-01,0.62,0.406,0,-10.421,1,0.0281,0.722,6.73e-06,0.114,0.695,101.489,146840,4
+3bQt4ZM4WM4NDgulry4fTn,Earl Thomas Conley,Don't Make It Easy,Holding Her and Loving You,3,1983,0.64,0.317,7,-14.229,1,0.0307,0.605,5.14e-06,0.118,0.3,125.935,190653,4
+2uX5f3x2cObov0iDAPln4o,Alabama,Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection,Song of the South,12,1980,0.486,0.633,9,-8.414,1,0.0365,0.176,0.0,0.312,0.669,162.158,190800,4
+3qd4eFbXvTs0xsgDnExC0I,Barbara Mandrell,20th Century Masters: The Millennium Collection: Best Of Barbara Mandrell,I Was Country When Country Wasn't Cool - (Duet With George Jones),8,2000-01-01,0.607,0.555,0,-11.347,1,0.0314,0.0789,0.000179,0.929,0.529,104.937,220373,4
+2RB2xSlVoMRhINO0SruNIx,Gene Watson,Gene Watson's Greatest Hits,Fourteen Carat Mind,3,1968-01-01,0.539,0.485,5,-15.072,1,0.0341,0.141,0.0,0.181,0.94,188.884,159507,3
+7Jpclr7tZ6aQXjoKzWXUJV,Crystal Gayle,We Must Believe In Magic,Don't It Make My Brown Eyes Blue,1,1977-01-01,0.736,0.321,6,-13.474,1,0.0444,0.799,0.00897,0.0619,0.342,84.928,157653,4
+5KqldkCunQ2rWxruMEtGh0,Kenny Rogers,The Gambler,The Gambler,1,1978-01-01,0.671,0.501,4,-13.119,1,0.0594,0.342,0.0,0.194,0.86,87.038,214880,4
+1wb4P4F0sxAQ2KXrRvsx6n,Shania Twain,Come On Over,You're Still The One,10,1997-11-04,0.585,0.494,3,-8.751,1,0.0353,0.363,0.0,0.0886,0.634,133.822,212200,4
+7kv7zBjMtVf0eIJle2VZxn,Glen Campbell,Southern Nights,Southern Nights,1,1977-01-01,0.697,0.813,11,-8.89,0,0.0315,0.0989,0.0232,0.583,0.85,95.301,180027,4
+4JRziorcHUFlbX1yt5OVmQ,Rodney Crowell,The Houston Kid,I Walk The Line,6,2001,0.653,0.765,7,-5.341,1,0.0272,0.386,4.32e-05,0.102,0.939,95.971,231520,4
+7J9ARWRkMtXMYeF8RxJEjn,Keith Whitley,Don't Close Your Eyes,Don't Close Your Eyes,4,1988-05-30,0.605,0.228,7,-16.116,1,0.0267,0.703,0.00198,0.0936,0.285,78.31,252627,4
+6FevJcaJvt5EvsHnuJHBnb,Dwight Yoakam,This Time,Fast as You,8,1993-03-12,0.628,0.801,4,-7.926,1,0.0282,0.000479,0.0897,0.396,0.843,125.954,285200,4
+5KMWwtJv3Ll2ROZfMerQs0,Marty Stuart,Tribute To Tradition,Same Old Train,14,1998-09-09,0.352,0.601,7,-12.646,1,0.0323,0.0942,0.0105,0.117,0.37,107.546,361093,4
+2U8XNauQ8RmAKPzFOm8MjY,Patsy Montana,Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe],I Want to Be a Cowboy's Sweetheart,15,2019-09-06,0.69,0.492,7,-5.493,1,0.034,0.716,0.0,0.207,0.891,121.258,186627,4
+0cThXovxrvU68JuzYUXhJT,Don Williams,Expressions,Tulsa Time,5,1978-08-23,0.916,0.57,4,-13.011,1,0.0334,0.458,0.000721,0.0595,0.957,104.415,195347,4
+1pZbQrvzJExLxvhYcrsYdG,Steve Wariner,Burnin' The Roadhouse Down,Holes In The Floor Of Heaven,2,1998-01-01,0.66,0.34,1,-10.113,1,0.027,0.54,0.0,0.0804,0.384,108.946,288373,4
+0ogTZlmFqg5xyFCMpRAEb4,The Judds,Rockin' With The Rhythm,Grandpa (Tell Me 'Bout The Good Old Days),2,1985-10-30,0.56,0.239,4,-16.732,1,0.0347,0.473,1.37e-05,0.0565,0.601,201.672,258333,4
+0bfhBvdpWSSLDS2q7Qx2Oy,Jean Shepard,Walt Disney World Official Album,"There's a Great Big Beautiful Tomorrow - From ""The Carousel of Progress""",15,2013-08-20,0.663,0.588,2,-8.856,1,0.0611,0.327,0.0,0.392,0.771,128.098,159213,4
+6kMypU9vKqf5GClbGTEKRx,Roy Clark,Great Picks & New Traditions,Yesterday When I Was Young,5,1996-03-15,0.478,0.388,2,-12.655,0,0.0409,0.647,2.84e-06,0.11,0.337,89.848,201173,4
+05XNDab0Lhitzqk7tRpOnY,Emmylou Harris,Pieces Of The Sky (Expanded & Remastered),Boulder to Birmingham - Remastered,4,1975,0.476,0.318,10,-10.953,1,0.0304,0.78,2e-06,0.104,0.311,126.495,213027,4
+5Z53DsDtQ3H474nRstsksf,Mel Tillis,Ralph Emery's Country Legends Series,Coca Cola Cowboy,16,2000-01-01,0.636,0.486,4,-11.862,1,0.0345,0.482,0.000182,0.0994,0.568,123.428,210307,4
+1Ko3qmw2ItUEefsjDjpLWL,John Conlee,Rose Colored Glasses,Rose Colored Glasses,1,1988-01-01,0.396,0.379,8,-14.236,1,0.043,0.382,0.0,0.105,0.368,114.447,200493,3
+7fiM9fRN7nRb2z1j7ZOdjy,Kenny Rogers,Every Time Two Fools Collide,Every Time Two Fools Collide,1,1978-05-13,0.44,0.269,2,-17.804,1,0.0259,0.641,3.42e-06,0.283,0.478,75.817,180907,4
+4td6tN1J2QlESZyUhlD77m,T.G. Sheppard,Super Hits,I Loved 'Em Every One,7,1979,0.66,0.688,4,-12.563,0,0.0304,0.216,0.0016,0.0685,0.718,87.126,220427,4
+4XbxeoBeQnwpsyJyZEMoWc,Johnny Paycheck,Super Hits,Take This Job and Shove It,10,1971,0.764,0.455,10,-10.336,1,0.0508,0.562,1.61e-05,0.0756,0.707,137.148,156293,4
+064SVQsmWl5EF0zahmzkQk,The Bellamy Brothers,Bellamy Brothers,Let Your Love Flow,6,1976-07-01,0.679,0.553,3,-14.687,1,0.0316,0.0611,7.16e-06,0.139,0.946,109.071,198760,4
+1ipcb9qXpSHWhSUvdxJhsx,Randy Travis,Always & Forever,"Forever and Ever, Amen",6,1987-05-04,0.677,0.724,2,-8.992,1,0.0245,0.143,0.000101,0.158,0.697,90.392,212640,4
+5YwgJ6lpZ3SiAQwBEpjqey,Lynn Anderson,Rose Garden,Rose Garden,1,1971,0.589,0.501,0,-11.665,1,0.031,0.168,0.0,0.0741,0.969,131.064,175867,4
+0FFOUWHCZw0bvpxOjcGaTQ,Carl Smith,Best Of Carl Smith,A Way With Words,4,1991-05-13,0.658,0.481,8,-12.381,1,0.0295,0.6,0.0,0.0462,0.951,96.57,114133,4
+0LpmpBulMgAwtdC3YYgkql,Dave Dudley,20th Century Masters: The Millennium Collection: Best Of Dave Dudley,Six Days On The Road,1,2002-01-01,0.703,0.549,2,-10.952,1,0.0493,0.708,5.57e-06,0.361,0.919,90.382,134707,4
+39q7xibBdRboeMKUbZEB6g,John Denver,"The John Denver Collection, Vol 1: Take Me Home Country Roads","Take Me Home, Country Roads",1,1997-06-17,0.255,0.43,9,-12.564,1,0.0322,0.546,1.87e-05,0.188,0.546,164.267,197813,4
+59kHPbwyyCApYA8RQQEuXm,Alan Jackson,A Lot About Livin' (And A Little 'Bout Love),Chattahoochee,1,1992-10-09,0.606,0.706,0,-9.665,1,0.0379,0.362,0.0,0.16,0.819,174.533,148160,4
+6pgN3d6oBrhmrSAKBfWNsf,Luke Combs,What You See Is What You Get,"1, 2 Many",6,2019-11-08,0.54,0.821,6,-3.789,1,0.0875,0.0397,0.0,0.423,0.685,148.791,180907,4
+4Pn0JlCUusD2QHjADuOzuV,Tim McGraw,Damn Country Music,Humble And Kind,11,2015-01-01,0.355,0.48,11,-7.31,1,0.0282,0.679,2.28e-06,0.12,0.137,100.956,259267,3
+18BajNiyvH6GpYshB0unrm,Toby Keith,Toby Keith 35 Biggest Hits,Should've Been A Cowboy,1,2008-01-01,0.585,0.793,7,-3.713,1,0.0322,0.351,0.0,0.3,0.732,133.839,208413,4
+5d4E1hgkLyb7sXr5J3InnM,Anne Murray,Let's Keep It That Way,You Needed Me,6,1978,0.497,0.296,9,-10.756,1,0.0302,0.431,0.0,0.106,0.171,62.204,220267,4
+54IVZuV4cKZjPzMGmotcUy,Diamond Rio,Greatest Hits II,Meet In the Middle,12,1991,0.707,0.746,4,-3.268,1,0.0327,0.753,0.0,0.194,0.559,91.153,199307,4
+46LI9mnlQ8fJHH47ioBubg,Alison Krauss & Union Station,A Tribute Album,When You Say Nothing At All,5,1994,0.509,0.242,3,-13.353,1,0.0291,0.714,0.000365,0.127,0.448,169.642,261120,4
