@@ -13,7 +13,7 @@ from datetime import date, timedelta
 #################################################
 # Database Setup
 #################################################
-engine = create_engine('postgres+psycopg2://postgres:Claymol1324@localhost:5432/Spotify')
+engine = create_engine('postgres+psycopg2://postgres:(password)@localhost:5432/Spotify')
 
 # reflect an existing database into a new model
 Base = automap_base()
