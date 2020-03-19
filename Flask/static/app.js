@@ -2,8 +2,6 @@
 const url5 = "http://127.0.0.1:5000/viral_viz";
 d3.json(url5).then(function(data) {
   console.log(data)
-  // var stackedData = d3.stack(data)
-  // console.log(stackedData)
   var days = Object.values(data['Days'])
   // console.log(days)
   var streams = Object.values(data['Streams'])
@@ -410,7 +408,7 @@ d3.json(url11).then(function(data) {
   var stuff = [trace1, trace2, trace3, trace4, trace5];
   
   var layout = {
-    title: 'Stream Category and Feature',
+    title: 'Audio Features and Streams',
     yaxis: {
       title: 'Measure of Audio Feature',
       titlefont: {color: '#1f77b4'},
@@ -418,13 +416,10 @@ d3.json(url11).then(function(data) {
     },
       xaxis: {
         tickmode: "array",
-        tickvals: cat_count,
-        ticktext: ""'less 1 million', '1-40', '40-80','80-120', '120-160','200'"
-      },
+    tickvals: [1, 2, 3, 4, 5, 6],
+    ticktext: ['Under 1 million','1-39','40-79', '80-119', '120-159', '160-199','200 +']},
     yaxis2:{
       title: 'Streams in Category',
-      position: .975,
-      size: 2,
       titlefont: {color: 'rgb(148, 103, 189)'},
       tickfont: {color: 'rgb(148, 103, 189)'},
       overlaying: 'y',
